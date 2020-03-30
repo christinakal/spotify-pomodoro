@@ -1,0 +1,11 @@
+{
+  "manifest_version": 1,
+  "name": "Spotify Pomodoro",
+  "description": "An extention that allows you to use pomodoro technique more effectively.",
+  "version": 0.01,
+  "author": "Christina Kaliora",
+  "browser action": {
+    "default icon": "null",
+    "default title": "Placeholder"
+  }
+}
